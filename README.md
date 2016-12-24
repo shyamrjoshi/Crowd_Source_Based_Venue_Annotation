@@ -1,2 +1,5 @@
 # Crowd_Source_Based_Venue_Annotation
 CS9223 Cloud Computing Project
+
+In this project CrowdSource Based Venue Annotation, we have build a mobile application that with a click sends few information about a place such as noise level, pictures/images of the venue. The idea is to create “what a place is like” from crowd source based feedback. A Crowd source based venue annotation system annotates different venues based on the information provided by the different users for different venues.
+The primary function of this app is to facilitate decision making for users when they wish to visit a particular place but also care to take into consideration about the ambience, atmosphere for that place, and also how crowded the place is. The users can use the app anytime and search for a place of their interest and make informed choices regarding the place.  The users can also upload an image, audio and location of a particular venue to let other users have a look at the venue before they visit the venue.
