@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test2</string>
+    <string name="venue_name_placeholder">Venue name</string>
+    <string name="title_activity_capture">Crowd Source Based Venue Annotation</string>
+</resources>
